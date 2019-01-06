@@ -37,7 +37,7 @@ Where GYG11111111 is a GetYourGuide booking number, which can be retrieved like 
 {'customer_email': 'die@hard.com',
  'customer_name': 'John Mcclane',
  'customer_phone': '+1 202-456-1111',
- 'product': Tour in NYC',
+ 'product': 'Tour in NYC',
  'amount': '1'}
 ```
 
